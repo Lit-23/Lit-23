@@ -25,3 +25,5 @@ Feel free to explore my GitHub repositories and don't hesitate to connect with m
 ### 📬 Let's Connect!
 - LinkedIn: https://www.linkedin.com/in/rommel-marquez-8754b4263
 - Email: rommelmarquez1223@gmail.com
+- Portfolio: https://rommel-marquez.vercel.app/
+- Resume: https://drive.google.com/file/d/1F32xdI1ru_fHWvgxtLN5QFJqw4sJnnLm/view?usp=sharing
