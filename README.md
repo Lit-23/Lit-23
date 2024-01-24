@@ -7,8 +7,8 @@ A **Licensed Sanitary Engineer** in profession, but found my passion in coding. 
 - **Languages:** JavaScript, PHP
 - **Frontend:** HTML, CSS, React.js, Redux Toolkit, Tailwind, MUI
 - **Backend:** Node.js, Express.js, Laravel
-- **Database:** MongoDB, MySQL, Firebase
-- **Tools:** Git, Postman, Insomnia, Figma
+- **Database:** MongoDB, MySQL
+- **Tools:** Firebase, Git, Postman, Insomnia, Figma
 - **Other Skills:** Responsive Web Design, RESTful API Development
 
 ### 🌱 Currently Learning
