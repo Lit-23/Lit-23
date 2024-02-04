@@ -1,7 +1,7 @@
 ## Hi there, I'm Rommel Marquez! 👋
 
 I'm a **Junior Full-Stack Web Developer** from Lipa City, Batangas, Philippines. 
-A **Licensed Sanitary Engineer** in profession, but found my passion in coding. I did self learning for a couple of months and gained the basic fundamentals for Web Development (e.g. Html, Css, js, ReactJs). I then discovered BASE404 Web Dev Bootcamp and decided to enroll and completed the program in a span of 4months. Through these educational endeavors, I have developed a solid foundation in web development, instilling in me the confidence to venture further in the IT industry and pursue a career in Software Engineering.
+A **Licensed Sanitary Engineer** in profession, but found my passion in coding. I did self learning for a couple of months and gained the basic fundamentals for Web Development (e.g. Html, Css, js, ReactJs). I then discovered BASE404 Web Dev Bootcamp and decided to enroll. Through these educational endeavors, I have developed a solid foundation in web development, instilling in me the confidence to venture further in the IT industry and pursue a career in Software Engineering.
 
 ### 🔧 Tech Stack
 - **Languages:** JavaScript
