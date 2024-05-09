@@ -12,7 +12,7 @@ A **Licensed Sanitary Engineer** in profession, but found my passion in coding. 
 - **Other Skills:** Responsive Web Design, RESTful API Development
 
 ### 🌱 Currently Learning
-I am currently expanding my knowledge in and PHP, Laravel, and MySQL.
+My current tech stack is laravel, jquery, and bootstrap.
 
 ### 💼 Professional Background
 Prior to my journey into web development, I worked as a sanitary engineer. This diverse background brings a unique perspective to problem-solving and creativity in my coding projects.
